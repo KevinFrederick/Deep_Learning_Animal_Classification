@@ -13,3 +13,8 @@
    ![Image](ReadMe_Images/Home_Screen.jpeg)
 9. Untuk Menghentikan Program dapat Dilakukan dengan Mengetikkan *ctrl + c* pada Command Prompt
    
+## Hewan yang Dapat Diprediksi
+1. Bird
+2. Cat
+3. Dog
+4. Hen
